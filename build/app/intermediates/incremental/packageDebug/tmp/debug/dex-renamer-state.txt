@@ -1,0 +1,4 @@
+#Tue Feb 23 10:15:33 CST 2021
+base.0=/home/marvin/Desktop/Dev/climaApp/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
